@@ -1,0 +1,14 @@
+{
+  "prefix": "!",
+  "owner_id": 1389945313225080953,
+  "verified_role_id": 1521582337651904714,
+  "log_channel_id": 1521582423702376591,
+  "anti_crash_image_url": "https://cdn.discordapp.com/attachments/1521582430925099048/1521586410484928674/07ad4a7b-f1b0-4e9f-9bc4-8c23c71e43ef.png?ex=6a455f45&is=6a440dc5&hm=1afac22d06183e7d206fd57a2c48be34583d485de3fb5f62099c50dab08dac43&",
+  "embed_color": 2894892,
+  "spam_timeout_minutes": 60,
+  "max_message_length": 1600,
+  "max_mentions": 6,
+  "max_special_chars": 18,
+  "message_burst_count": 6,
+  "message_burst_seconds": 6
+}

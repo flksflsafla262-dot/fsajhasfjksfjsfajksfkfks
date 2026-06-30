@@ -1,0 +1,15 @@
+{
+  "1389945313225080953": {
+    "name": "OWNER",
+    "added_by": "system",
+    "created_at": "system",
+    "permissions": {
+      "can_commands": true,
+      "can_manage_users": true,
+      "can_ban": true,
+      "can_mute": true,
+      "can_kick": true,
+      "can_links": true
+    }
+  }
+}
